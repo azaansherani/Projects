@@ -122,43 +122,6 @@ if __name__=="__main__":
             webbrowser.open("youtube.com")
         
 
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# def favsong(x):
-
-#     if "drake" in x:
-#         speak("I think I'm addicted to naked pictures, And sittin' talking 'bout bitches that we almost had, I don't think I'm conscious of making monsters, Outta the women I sponsor 'til it all goes bad, But shit, it's all good, We threw a party, yeah, we threw a party, Bitches came over, yeah, we threw a party")
-#     elif "kendrick" in x:
-#         speak("I'm willin' to die for this shit, I done cried for this shit, might take a life for this shit, Put the Bible down and go eye for an eye for this shit, D.O.T. my enemy, won't catch a vibe for this shit, ayy, I been stomped out in front of my momma, My daddy commissary made it to commas, Bitch, all my grandmas dead, So ain't nobody prayin' for me, I'm on your head, ayy, Thirty millions later, know the feds watchin', Auntie on my Telegram like, Be cautious!, I be hangin' out at Tam's, I be on Stockton, I don't do it for the 'Gram, I do it for Compton")
-
-
 # elif "send email to user" in query:
 #             try:
 #                 print("What's the email?")
